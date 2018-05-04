@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Blog
+Blog app is my assignment for WebDevelopment coursera study.
+>>>>>>> c0e63a59b6d160b1651ccddafac0876dd994bfc5
